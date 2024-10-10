@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+I'm Benyuan Meng from China.
+Now I'm studying for Master's degree at University of Chinese Academy of Sciences.
+
 ## Research Interests
 I'm currently interested in diffusion models, or specifically, their application in discrimination. We know diffusion models are at the first place generative models, but there are ways to utilize them for discrimination, such as diffusion feature and training-free diffusion segmentors.  
 
